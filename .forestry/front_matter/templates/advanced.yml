@@ -35,14 +35,14 @@ fields:
   config:
     required: true
 pages:
-- blog/author/brandon-guidelines.md
-- blog/author/dianne-ameter.md
-- blog/category/news.md
-- blog/category/tips.md
-- blog/category/use-cases.md
-- blog/_index.md
-- blog/tag/extensions.md
-- blog/tag/productivity.md
-- faq.md
-- _index.md
-- thank-you.md
+- content/_index.md
+- content/blog/_index.md
+- content/blog/author/brandon-guidelines.md
+- content/blog/author/dianne-ameter.md
+- content/blog/category/news.md
+- content/blog/category/tips.md
+- content/blog/category/use-cases.md
+- content/blog/tag/extensions.md
+- content/blog/tag/productivity.md
+- content/faq.md
+- content/thank-you.md
